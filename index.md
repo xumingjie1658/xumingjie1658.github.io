@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Scribble, a Jekyll theme
 ---
 
 <ul style="padding: 0;">
