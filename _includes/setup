@@ -1,0 +1,2 @@
+{% assign BLOG_IMG = "/blogimg/" %}
+{% assign IMG = "/img" %}
