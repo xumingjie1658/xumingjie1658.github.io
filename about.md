@@ -2,4 +2,5 @@
 layout: page
 title: About
 ---
-About me
+{% include setup %}
+minescript
