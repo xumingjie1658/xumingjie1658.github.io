@@ -39,3 +39,16 @@ links:
   - name:         GitHub
     url:          http://github.com/xumingjie1658
     external:     true
+
+en:
+  links:
+    - name:         Home
+      url:          /
+    - name:         About
+      url:          /about
+    - name:         JianShu
+      url:          http://www.jianshu.com/users/b46aab0781a2/latest_articles
+      external:     true
+    - name:         GitHub
+      url:          http://github.com/xumingjie1658
+      external:     true
