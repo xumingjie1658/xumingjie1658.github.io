@@ -19,6 +19,9 @@ tags: [vue,mvvm,node]
 
 数据验证：vue-validate
 
+向后请求：vue-resource
+
+---
 
 native：weex
 
@@ -26,6 +29,7 @@ native：weex
 
 ui: weui
 
+---
 
 前端组件化
 
@@ -33,4 +37,7 @@ ui: weui
 
 前后端分离
 
+组件库生态
+
 mvvm
+
