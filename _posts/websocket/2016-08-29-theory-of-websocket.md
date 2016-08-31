@@ -2,7 +2,7 @@
 layout: post
 title: "websocket的原理及业务中的使用"
 description: ""
-category: [websocket, english]
+category: [websocket, chinese]
 tags: [websocket,html5]
 ---
 {% include setup %}
