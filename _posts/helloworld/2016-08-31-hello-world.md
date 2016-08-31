@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_en
 title: "Hello World"
 description: ""
 category: [helloworld, english]
