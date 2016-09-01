@@ -25,7 +25,7 @@ tags: [vue,mvvm,node]
 
 native：weex
 
-后端：node + koa
+后端：node + koa + pm2 + mocha
 
 ui: weui
 
